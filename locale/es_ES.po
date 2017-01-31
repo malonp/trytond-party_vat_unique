@@ -1,0 +1,7 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "error:party.identifier:"
+msgid "There is another code with the same number: %s"
+msgstr "Hay otro código con el mismo número: %s"
