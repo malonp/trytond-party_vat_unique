@@ -44,7 +44,4 @@ class PartyIdentifier:
                 self.raise_user_warning('warn_identifier_with_same_code.%d' % self.id,
                     'There is another code with the same number: %s', self.rec_name)
 
-    @staticmethod
-    def default_type():
-        return 'eu_vat'
 
