@@ -6,7 +6,6 @@
 from trytond.pool import Pool, PoolMeta
 from trytond.transaction import Transaction
 
-
 __all__ = ['Party', 'PartyIdentifier']
 
 
